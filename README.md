@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Deepanshu Som 👋
 
-<!--
-**ideepanshusom/ideepanshusom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science Student | Developer in Progress
 
-Here are some ideas to get you started:
+I'm a Computer Science student focused on building strong programming fundamentals,
+developing problem-solving skills, and exploring software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and working with **C, Python, Data Structures, Git & GitHub**.
+
+---
+
+## 💻 Tech & Tools
+
+**Languages**
+- C
+- Python
+
+**Core Concepts**
+- Data Structures & Algorithms
+- Problem Solving
+- Object-Oriented Programming
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+**Other Skills**
+- MS Excel
+- Canva
+- Video Editing
+
+---
+
+## 🚀 What I'm Working On
+
+- Strengthening my programming fundamentals
+- Practicing Data Structures & Algorithms
+- Building small projects with C and Python
+- Learning Git & GitHub workflows
+- Exploring real-world software development
+
+---
+
+## 📌 Featured Projects
+
+> Projects will be added as I build and complete them.
+
+---
+
+## 🎯 2026 Goals
+
+- Build and publish meaningful projects
+- Improve problem-solving and DSA skills
+- Contribute to open-source projects
+- Collaborate with other developers
+- Build a strong foundation in Computer Science
+
+---
+
+## 🤝 Let's Connect
+
+**LinkedIn:** [Deepanshu Som](https://www.linkedin.com/in/deepanshusoam/)
+
+**GitHub:** [@ideepanshusom](https://github.com/ideepanshusom)
+
+---
+
+⭐ Thanks for visiting my profile!
